@@ -11,5 +11,14 @@ stap 5: php artisan key:generate
 stap 6: php artisan serve 
 
 
-Hij doet het nu als het goed is 
+Hij doet het nu als het goed is. Zo niet dan hoor ik het graag.
+
+
+INLOG admin panel: 
+GB: mvandorst@outlook.com
+WW: laraveltest
+
+
+P.S 
+Ik heb in het framework veel aangepast in de code.
 
